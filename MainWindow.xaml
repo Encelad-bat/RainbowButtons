@@ -31,5 +31,6 @@
         <Button Foreground="Aqua" Width="40" Height="20" Grid.Row="0" Grid.Column="2" Padding="2">Aqua</Button>
         <Button Foreground="Teal" Width="40" Height="20" Grid.Row="0" Grid.Column="3" Padding="2">Teal</Button>
         <Button Foreground="Olive" Width="40" Height="20" Grid.Row="0" Grid.Column="4" Padding="2">Olive</Button>
+        <Button Foreground="Green" Width="40" Height="20" Grid.Row="0" Grid.Column="5" Padding="2">Green</Button>
     </Grid>
 </Window>
