@@ -26,16 +26,16 @@
             <ColumnDefinition Width="2*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <Button Foreground="Navy" Width="40" Height="20" Grid.Row="0" Grid.Column="0" Padding="2">Navy</Button>
-        <Button Foreground="Blue" Width="40" Height="20" Grid.Row="0" Grid.Column="1" Padding="2">Blue</Button>
-        <Button Foreground="Aqua" Width="40" Height="20" Grid.Row="0" Grid.Column="2" Padding="2">Aqua</Button>
-        <Button Foreground="Teal" Width="40" Height="20" Grid.Row="0" Grid.Column="3" Padding="2">Teal</Button>
-        <Button Foreground="Olive" Width="40" Height="20" Grid.Row="0" Grid.Column="4" Padding="2">Olive</Button>
-        <Button Foreground="Green" Width="40" Height="20" Grid.Row="0" Grid.Column="5" Padding="2">Green</Button>
-        <Button Foreground="Lime" Width="40" Height="20" Grid.Row="0" Grid.Column="6" Padding="2">Lime</Button>
-        <Button Foreground="Yellow" Width="40" Height="20" Grid.Row="1" Grid.Column="0" Padding="2">Yellow</Button>
-        <Button Foreground="Orange" Width="40" Height="20" Grid.Row="1" Grid.Column="1" Padding="2">Orange</Button>
-        <Button Foreground="Red" Width="40" Height="20" Grid.Row="1" Grid.Column="1" Padding="2">Red</Button>
-        <Button Foreground="Maroon" Width="40" Height="20" Grid.Row="1" Grid.Column="1" Padding="2">Maroon</Button>
+        <Button Foreground="Navy" Grid.Row="0" Grid.Column="0" Padding="2">Navy</Button>
+        <Button Foreground="Blue" Grid.Row="0" Grid.Column="1" Padding="2">Blue</Button>
+        <Button Foreground="Aqua" Grid.Row="0" Grid.Column="2" Padding="2">Aqua</Button>
+        <Button Foreground="Teal" Grid.Row="0" Grid.Column="3" Padding="2">Teal</Button>
+        <Button Foreground="Olive" Grid.Row="0" Grid.Column="4" Padding="2">Olive</Button>
+        <Button Foreground="Green" Grid.Row="0" Grid.Column="5" Padding="2">Green</Button>
+        <Button Foreground="Lime" Grid.Row="1" Grid.Column="0" Padding="2">Lime</Button>
+        <Button Foreground="Yellow" Grid.Row="1" Grid.Column="1" Padding="2">Yellow</Button>
+        <Button Foreground="Orange" Grid.Row="1" Grid.Column="2" Padding="2">Orange</Button>
+        <Button Foreground="Red" Grid.Row="1" Grid.Column="3" Padding="2">Red</Button>
+        <Button Foreground="Maroon" Grid.Row="1" Grid.Column="4" Padding="2">Maroon</Button>
     </Grid>
 </Window>
