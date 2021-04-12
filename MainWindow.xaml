@@ -42,5 +42,6 @@
         <Button Foreground="Black" Grid.Row="2" Grid.Column="0" Padding="2">Black</Button>
         <Button Foreground="Silver" Grid.Row="2" Grid.Column="1" Padding="2">Silver</Button>
         <Button Foreground="Gray" Grid.Row="2" Grid.Column="2" Padding="2">Gray</Button>
+        <Button Foreground="White" Grid.Row="2" Grid.Column="2" Padding="2">White</Button>
     </Grid>
 </Window>
