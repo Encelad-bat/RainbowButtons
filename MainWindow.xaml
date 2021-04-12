@@ -49,6 +49,7 @@
             <ColumnDefinition Width="2*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <Button Foreground="Navy" Width="40" Height="20">Navy</Button>
+        <Button Foreground="Navy" Width="40" Height="20" Grid.Row="0" Grid.Column="0" Padding="2">Navy</Button>
+        <Button Foreground="Blue" Width="40" Height="20" Grid.Row="0" Grid.Column="1" Padding="2">Blue</Button>
     </Grid>
 </Window>
