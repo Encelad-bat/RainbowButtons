@@ -36,5 +36,6 @@
         <Button Foreground="Yellow" Width="40" Height="20" Grid.Row="1" Grid.Column="0" Padding="2">Yellow</Button>
         <Button Foreground="Orange" Width="40" Height="20" Grid.Row="1" Grid.Column="1" Padding="2">Orange</Button>
         <Button Foreground="Red" Width="40" Height="20" Grid.Row="1" Grid.Column="1" Padding="2">Red</Button>
+        <Button Foreground="Maroon" Width="40" Height="20" Grid.Row="1" Grid.Column="1" Padding="2">Maroon</Button>
     </Grid>
 </Window>
